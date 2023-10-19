@@ -1,5 +1,5 @@
 ---
-baseURL: https://piko-heksagon.netlify.app/
+baseURL: https://QualityFootballUSA.netlify.app/
 languageCode: en-us
 title: Piko
 theme: piko
@@ -44,7 +44,7 @@ params:
   - "/uploads/og.webp"
   label:
     title: _QualityFootball USA_
-    text: Welcome to Piko
+    text: Welcome to QualityFootball USA
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
