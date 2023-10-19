@@ -82,7 +82,7 @@ params:
     heroCTASecondaryUrl: "/contact/"
     heroBackgroundImage: "/uploads/chaussure.webp"
     # Blog Section
-    disableBlogSection: false
+    disableBlogSection: true
     blogTitle: Latest Posts
     blogDescription: This is my latest blog posts
     seeMoreText: More Posts
