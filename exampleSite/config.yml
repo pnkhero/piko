@@ -74,13 +74,13 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
-    heroCTAPrimaryText: Blog
-    heroCTAPrimaryUrl: "/blog/"
+    heroTitle: QualityFootball USA
+    heroDescription: This is our online shop for American football boots. We sell quality custom-made boots with studs. With a wide range produced adapted to women.
+    heroCTAPrimaryText: Product
+    heroCTAPrimaryUrl: "/product/"
     heroCTASecondaryText: Contact Me
     heroCTASecondaryUrl: "/contact/"
-    heroBackgroundImage: "/uploads/portfolio-1.webp"
+    heroBackgroundImage: "/uploads/chaussure.webp"
     # Blog Section
     disableBlogSection: false
     blogTitle: Latest Posts
