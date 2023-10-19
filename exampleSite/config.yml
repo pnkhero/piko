@@ -43,7 +43,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
+    title: _QualityFootball USA_
     text: Welcome to Piko
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
